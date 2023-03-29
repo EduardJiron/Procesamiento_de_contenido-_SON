@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 29-03-2023 a las 09:33:15
+-- Tiempo de generación: 29-03-2023 a las 10:06:41
 -- Versión del servidor: 10.4.27-MariaDB
 -- Versión de PHP: 8.2.0
 
@@ -42,7 +42,7 @@ CREATE TABLE `coordinador` (
 --
 
 INSERT INTO `coordinador` (`idC`, `nombres`, `apellidos`, `fechaNac`, `titulo`, `email`, `facultad.`) VALUES
-(8, 'Carlos', 'lopez', '1930/02/20', 'sistemas', 'carlos@gmail.com', 'Ingenieria'),
+(8, 'Carlos', 'lopez', '2000/02/20', 'sistemas', 'carlos@gmail.com', 'Ingenieria'),
 (9, 'Mario', 'loco', '1920/02/20', 'Derecho', 'mario@gmail.com', 'humanidades'),
 (10, 'juan', 'caballo', '1920/02/20', 'Admin', 'juangod@gmail.com', 'Ceo '),
 (11, 'juana', 'llegua', '1920/02/20', 'Arquitectura', 'juana@gmail.com', 'Humanidades'),
